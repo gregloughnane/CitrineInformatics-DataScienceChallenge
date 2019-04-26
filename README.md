@@ -22,8 +22,5 @@ PS - although I didn't get this job, I had a great time with this challenge, I s
 
 PPS - All of my final submission work is included, as well as the initial training_data.csv and test_data.csv files provided.
 
-Websites that may of interest if this repository is...
-https://citrine.io/
-https://citrination.com/
-https://github.com/CitrineInformatics
+Websites (with other great tools) that may of interest if this repository is...https://citrine.io/ | https://citrination.com/ | https://github.com/CitrineInformatics
 
