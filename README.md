@@ -18,8 +18,12 @@ In this repository you will find my report that includes:
 
 -Estimate of the performance of the  model on the test set.
 
-PS - although I didn't get this job, I had a great time with this challenge and I hope it serves as a useful starting point for someone solving similar problems in the future!  
+PS - although I didn't get this job, I had a great time with this challenge, I still love the open nature of Citrine Informatics and their platform, and I hope it serves as a useful starting point for someone solving similar problems in the future!  
 
 PPS - All of my final submission work is included, as well as the initial training_data.csv and test_data.csv files provided.
 
+Websites that may of interest if this repository is...
+https://citrine.io/
+https://citrination.com/
+https://github.com/CitrineInformatics
 
